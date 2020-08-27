@@ -1,0 +1,3 @@
+int main() {
+system("start \"\" \"https://youtu.be/dQw4w9WgXcQ\"");
+}
