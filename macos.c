@@ -1,3 +1,4 @@
+#include <stdlib.h>
 int main() {
-system("open https://youtu.be/dQw4w9WgXcQ");
+system("open https://lainsafe.delegao.moe/files/pCsdwGqd.mp4");
 }

@@ -1,3 +1,4 @@
+#include <stdlib.h>
 int main() {
-system("xdg-open https://youtu.be/dQw4w9WgXcQ");
+system("xdg-open https://lainsafe.delegao.moe/files/pCsdwGqd.mp4");
 }
